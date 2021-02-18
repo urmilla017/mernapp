@@ -1,4 +1,6 @@
-## Local Development
+## MERN STACK APP
+
+### Local Development
 
 Because this app is made of two npm projects, there are two places to run `npm` commands:
 
